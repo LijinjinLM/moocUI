@@ -1,14 +1,15 @@
-# mooc-ui-ljj组件库
- 
-### 快速开始
- 
-#### 1.安装组件库
- 
+# 快速开始
+
+### 安装组件库
+
 ```bash
 npm i mooc-ui-ljj
 ```
  
 #### 2.引用组件库
+>在main.js引入组件库
+
+
 ```javascript
 //全部引入
 import "mooc-ui-ljj/dist/css/index.css";
